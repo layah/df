@@ -1,0 +1,95 @@
+{
+    "couseList": [
+        {
+            "name": "Android子线程操作UI",
+            "num": "99",
+            "sec": "25",
+            "case": "15",
+            "js":"20",
+            "gc":"5",
+            "img": "src/assets/images/pic.jpg",
+            "Int": "南京邮电大学副教授，博士，硕士生导师，现任南京邮电大学计算机学院软件工程系主任。",
+            "imgL": "src/assets/images/Android.jpg"
+        },
+        {
+            "name": "JavaEE应用服务器配置与管理",
+            "num": "91",
+            "sec": "12",
+            "case": "19",
+            "js":"220",
+            "gc":"51",
+            "img": "src/assets/images/pic.jpg",
+            "Int": "南京邮电大学副教授",
+            "imgL": "src/assets/images/Android-Fragment.jpg"
+
+        },
+        {
+            "name": "cooking开发",
+            "num": "95",
+            "sec": "95",
+            "case": "45",
+            "js":"220",
+            "gc":"53",
+            "img": "src/assets/images/pic.jpg",
+            "Int": "南京邮电大学副教授，博士，硕士生导师",
+            "imgL": "src/assets/images/Android-Fragment.jpg"
+        },
+        {
+            "name": "Android子线程操作UI",
+            "num": "99",
+            "sec": "25",
+            "case": "15",
+            "js":"10",
+            "gc":"25",
+            "img": "src/assets/images/pic.jpg",
+            "Int": "南京邮电大学副教授，博士，硕士生导师，现任南京邮电大学计算机学院软件工程系主任。",
+            "imgL": "src/assets/images/Android.jpg"
+        },
+        {
+            "name": "JavaEE应用服务器配置与管理",
+            "num": "91",
+            "sec": "12",
+            "case": "19",
+            "js":"9",
+            "gc":"56",
+            "img": "src/assets/images/pic.jpg",
+            "Int": "南京邮电大学副教授",
+            "imgL": "src/assets/images/Android-Fragment.jpg"
+        },
+        {
+            "name": "cooking开发",
+            "num": "95",
+            "sec": "95",
+            "case": "45",
+            "js":"90",
+            "gc":"58",
+            "img": "src/assets/images/pic.jpg",
+            "Int": "南京邮电大学副教授，博士，硕士生导师",
+            "imgL": "src/assets/images/Android-Fragment.jpg"
+        },
+        {
+            "name": "前端架构",
+            "num": "23",
+            "sec": "15",
+            "case": "78",
+            "js":"19",
+            "gc":"14",
+            "img": "src/assets/images/pic.jpg",
+            "Int": "南京邮电大学副教授，博士，硕士生导师，现任南京邮电大学计算机学院软件工程系主任。",
+            "imgL": "src/assets/images/Web-View.jpg"
+        },
+        {
+            "name": "前端架构",
+            "num": "23",
+            "sec": "15",
+            "case": "78",
+            "js":"90",
+            "gc":"7",
+            "img": "src/assets/images/pic.jpg",
+            "Int": "南京邮电大学副教授，博士，硕士生导师，现任南京邮电大学计算机学院软件工程系主任。",
+            "imgL": "src/assets/images/Web-View.jpg"
+        }
+    ],
+    "tipList": "具有企业业务背景，具有较强的商业应用性欲实战性，适合岗前实训等实践性实训。综合案例包含两种类型：技术综合实训与业务综合实训；技术综合实训在业务背景下重点关注技术；业务综合实训是在应用技术的同时重点偏重对业务的关注。",
+    "navNm":"企业综合案例"
+}

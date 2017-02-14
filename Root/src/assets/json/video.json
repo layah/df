@@ -1,0 +1,8 @@
+{
+	"videoList":
+	[
+          {"name":"Java基本语法基本语","times":"1:30","srcV":"http://vjs.zencdn.net/v/oceans.mp4"},
+          {"name":"广告视频","times":"2:30","srcV":"http://promotion.geely.com/xindihao/media/video2.mp4"},
+          {"name":"Java基本语法基本语Java基本语法基本语","times":"2:30","srcV":"http://demo.kalcaddle.com/index.php?user/public_link&fid=f946riPvjw5425jLPu8GsKKx7AYbyCZdsrOd2tNhN1hy3j752k27OJLJq2U3SzdQXIPaehqSr3c67J2jzjMWrYIcm2pZxu-nzWoNojKd0fl2Q7gSoiES49M_jaSOeOYiu1QW6yE&file_name=/welcome.mp4"}
+      ]
+}

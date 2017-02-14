@@ -1,0 +1,22 @@
+{
+  "name": "zk_edu",
+  "version": "0.0.0",
+  "description": "A vue project.",
+  "private": true,
+  "keywords": [
+  ],
+  "scripts": {
+    "dev": "cooking watch -p",
+    "dist": "cooking build -p",
+    "deploy": "cooking build --no-color",
+    "test": "cooking test karma start --single-run"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.0.1",
+    "babel-polyfill": "*"
+  },
+  "devDependencies": {
+    "cooking-vue2": "*"
+  }
+}

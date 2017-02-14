@@ -1,0 +1,20 @@
+{
+    "project": {
+        "prolist":"XXXX项目综合实训案例清单",
+        "projsd":"MyEclispe",
+        "prsdwe":"MyEclispe",
+        "wordlist":"dhgyusadhyu.doc",
+        "extbog":"cil.war"
+    },
+    "titlist": [
+        {
+            "titlename":"体验案例",
+            "titlenb":"1"
+        },
+        {
+            "titlename":"工程时间案例",
+            "titlenb":"5"
+        }
+    ]
+}
+

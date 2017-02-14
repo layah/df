@@ -1,0 +1,69 @@
+{       "title":"实验室作为时间与应用能力培养的主要环境,在应用性课程中非常重要,没门课程的实验室本质上是课程实验室,服务于案例演示,上机联系以及教学实验",
+        "builds":   [
+                        {
+                            "buimg": "src/assets/images/labbuild1.png",
+                            "butitle":"外部环境依赖",
+                            "bucont": [
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"数据库服务器"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"Web服务器"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"代码变更服务器"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"xxx企业项目环境"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"数据库服务器"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"Web服务器"}
+                            ]
+                        },
+                    {
+                            "buimg": "src/assets/images/labbuild3.png",
+                            "butitle":"操作系统",
+                            "bucont": [
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"Redhat Linux"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"Mac OS"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"Windows"}
+                            ]
+                        },
+                        {
+                            "buimg": "src/assets/images/labbuild5.png",
+                            "butitle":"学习平台",
+                            "bucont": [
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"智慧教学实验端app"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"智慧教学实验端app"}
+                            ]
+                        },
+                                {
+                            "buimg": "src/assets/images/labbuild2.png",
+                            "butitle":"支持的案例类型",
+                            "bucont": [
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"知识点案例1"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"知识点案例2"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"体验案例"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"综合实训案例"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"综合实训案例2"}
+                            ]
+                        },
+                    {
+                            "buimg": "src/assets/images/labbuild6.png",
+                            "butitle":"开发工具",
+                            "bucont": [
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"文本编辑工具"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"IDE开发工具"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"文档工具"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"软件工程工具"}
+                            ]
+                        },
+                    {
+                            "buimg": "src/assets/images/labbuild4.png",
+                            "butitle":"互联网工具",
+                            "bucont": [
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"视频录制工具"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"浏览器工具"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"网络与下载工具"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"办公工具"},
+                                 {"buhref":"/src/assets/vx.ppt", "buconttext":"办公工具2"},
+                                 {"buhref":"/src/assets/vx.ppt", "buconttext":"浏览器工具"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"网络与下载工具"},
+                                {"buhref":"/src/assets/vx.ppt", "buconttext":"办公工具"},
+                                 {"buhref":"/src/assets/vx.ppt", "buconttext":"办公工具2"}
+                            ]
+                        }
+                    ]
+}

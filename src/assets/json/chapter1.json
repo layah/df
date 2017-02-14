@@ -1,0 +1,19 @@
+{
+
+      "targetNm":["能根据需要定义各种变量","能使用控制语句控制程序的运行","能使用控制语句控制程序的运行","能对变量正确赋值","能对变量正确赋值","能对变量正确赋值","能对变量进行各种运算"],
+      "chapterNm":[
+          {"chapName":"基于类的构件设计原则","times":"2","case":"入门与工具","stateCase":"2","apply":"3","zh":"1","firm":"5"},
+          {"chapName":"构件级设计指导方针","times":"5","case":"量、运算与控制","stateCase":"4","apply":"0","zh":"2","firm":"1"},
+          {"chapName":"数据存储与量","times":"7","case":"入门与工具","stateCase":"4","apply":"0","zh":"2","firm":"1"},
+          {"chapName":"数据运算与运算符","times":"9","case":"量、运算与控制","stateCase":"4","apply":"1","zh":"2","firm":"1"},
+          {"chapName":"运算与条件流程控制","times":"1","case":"入门与工具","stateCase":"1","apply":"4","zh":"9","firm":"4"},
+          {"chapName":"运算与循环流程控制","times":"4","case":"量、运算与控制","stateCase":"4","apply":"1","zh":"6","firm":"1"},
+          {"chapName":"运算与中断流程控制","times":"3","case":"入门与工具","stateCase":"8","apply":"6","zh":"1","firm":"2"},
+          {"chapName":"基于类的构件设计原则","times":"6","case":"量、运算与控制","stateCase":"4","apply":"9","zh":"4","firm":"6"},
+          {"chapName":"基于类的构件设计原则1","times":"7","case":"入门与工具","stateCase":"0","apply":"6","zh":"2","firm":"8"},
+          {"chapName":"基于类的构件设计原则2","times":"8","case":"量、运算与控制","stateCase":"8","apply":"5","zh":"2","firm":"1"},
+          {"chapName":"基于类的构件设计原则3","times":"9","case":"入门与工具","stateCase":"11","apply":"3","zh":"2","firm":"10"},
+          {"chapName":"基于类的构件设计原则4","times":"11","case":"量、运算与控制","stateCase":"4","apply":"6","zh":"2","firm":"1"}
+
+      ]
+}

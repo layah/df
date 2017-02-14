@@ -1,0 +1,364 @@
+{
+
+    "carouse": [
+        {   
+            "id":"1",
+            "Computer":"src/assets/images/computer.png" ,
+            "titelh2":"物流仓储管理系统1",
+            "contentc":"Web前端开发源于传统的互联网，互联网普及让人才需求量居高不下，随着移动互联网的高速发展，移动终端的前端开发也越来越受到重视，因此薪水自然也高，据各大招聘网站数据显示，Web前端工程师的平均薪资都在万元以上，是真正的高薪职业。"  
+        },
+        {
+            "id":"2",
+            "Computer":"src/assets/images/computer.png" ,
+            "titelh2":"物流仓储管理系统2",
+            "contentc":"2Web前端开发源于传统的互联网，互联网普及让人才需求量居高不下，随着移动互联网的高速发展，移动终端的前端开发也越来越受到重视，因此薪水自然也高，据各大招聘网站数据显示，Web前端工程师的平均薪资都在万元以上，是真正的高薪职业。"  
+        },
+        {
+            "id":"3",
+            "Computer":"src/assets/images/computer.png" ,
+            "titelh2":"物流仓储管理系统3",
+            "contentc":"3Web前端开发源于传统的互联网，互联网普及让人才需求量居高不下，随着移动互联网的高速发展，移动终端的前端开发也越来越受到重视，因此薪水自然也高，据各大招聘网站数据显示，Web前端工程师的平均薪资都在万元以上，是真正的高薪职业。"  
+        },
+        {
+            "id":"4",
+            "Computer":"src/assets/images/computer.png" ,
+            "titelh2":"物流仓储管理系统4",
+            "contentc":"3Web前端开发源于传统的互联网，互联网普及让人才需求量居高不下，随着移动互联网的高速发展，移动终端的前端开发也越来越受到重视，因此薪水自然也高，据各大招聘网站数据显示，Web前端工程师的平均薪资都在万元以上，是真正的高薪职业。"  
+        },
+        {
+            "id":"5",
+            "Computer":"src/assets/images/computer.png" ,
+            "titelh2":"物流仓储管理系统5",
+            "contentc":"4Web前端开发源于传统的互联网，互联网普及让人才需求量居高不下，随着移动互联网的高速发展，移动终端的前端开发也越来越受到重视，因此薪水自然也高，据各大招聘网站数据显示，Web前端工程师的平均薪资都在万元以上，是真正的高薪职业。"  
+        },
+        {
+            "id":"6",
+            "Computer":"src/assets/images/computer.png" ,
+            "titelh2":"物流仓储管理系统6",
+            "contentc":"5Web前端开发源于传统的互联网，互联网普及让人才需求量居高不下，随着移动互联网的高速发展，移动终端的前端开发也越来越受到重视，因此薪水自然也高，据各大招聘网站数据显示，Web前端工程师的平均薪资都在万元以上，是真正的高薪职业。"  
+        },
+        {
+            "id":"7",
+            "Computer":"src/assets/images/computer.png" ,
+            "titelh2":"物流仓储管理系统7",
+            "contentc":"6Web前端开发源于传统的互联网，互联网普及让人才需求量居高不下，随着移动互联网的高速发展，移动终端的前端开发也越来越受到重视，因此薪水自然也高，据各大招聘网站数据显示，Web前端工程师的平均薪资都在万元以上，是真正的高薪职业。"  
+        }
+    ],
+    "popup" : [
+        {
+            "dettitle":"汉高移动ERP平台系统1",
+            "erp": "所属行业：ERP行业",
+            "lev": "项目级别：中型",
+            "smlun": [
+                {
+                    "smpic":"src/assets/images/pei1.jpg"
+                },
+                {
+                    "smpic":"src/assets/images/pei3.gif"
+                },
+                {
+                    "smpic":"src/assets/images/pei4.jpg"
+                }
+            ],
+            "funpic":"src/assets/images/1.fw.png",
+            "fundev":"功能说明",
+            "fundevtext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "tecpic":"src/assets/images/2.fw.png",
+            "tecdes":"技术说明",
+            "tecdestext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "datpic":"src/assets/images/3.fw.png",
+            "datdes":"功能说明",
+            "datdestext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "propic":"src/assets/images/4.fw.png",
+            "prodes":"功能说明",
+            "prodestext": [
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                }
+            ]       
+        },
+        {
+            "dettitle":"汉高移动ERP平台系统2",
+            "erp": "所属行业：ERP行业",
+            "lev": "项目级别：中型",
+            "smlun": [
+                {
+                    "smpic":"src/assets/images/pei1.jpg"
+                },
+                {
+                    "smpic":"src/assets/images/pei3.gif"
+                },
+                {
+                    "smpic":"src/assets/images/pei4.jpg"
+                }
+            ],
+            "funpic":"src/assets/images/1.fw.png",
+            "fundev":"功能说明",
+            "fundevtext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "tecpic":"src/assets/images/2.fw.png",
+            "tecdes":"技术说明",
+            "tecdestext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "datpic":"src/assets/images/3.fw.png",
+            "datdes":"功能说明",
+            "datdestext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "propic":"src/assets/images/4.fw.png",
+            "prodes":"功能说明",
+            "prodestext": [
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                }
+            ]       
+        },
+        {
+            "dettitle":"汉高移动ERP平台系统3",
+            "erp": "所属行业：ERP行业",
+            "lev": "项目级别：中型",
+            "smlun": [
+                {
+                    "smpic":"src/assets/images/pei1.jpg"
+                },
+                {
+                    "smpic":"src/assets/images/pei3.gif"
+                },
+                {
+                    "smpic":"src/assets/images/pei4.jpg"
+                }
+            ],
+            "funpic":"src/assets/images/1.fw.png",
+            "fundev":"功能说明",
+            "fundevtext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "tecpic":"src/assets/images/2.fw.png",
+            "tecdes":"技术说明",
+            "tecdestext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "datpic":"src/assets/images/3.fw.png",
+            "datdes":"功能说明",
+            "datdestext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "propic":"src/assets/images/4.fw.png",
+            "prodes":"功能说明",
+            "prodestext": [
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                }
+            ]       
+        },
+        {
+            "dettitle":"汉高移动ERP平台系统4",
+            "erp": "所属行业：ERP行业",
+            "lev": "项目级别：中型",
+            "smlun": [
+                {
+                    "smpic":"src/assets/images/pei1.jpg"
+                },
+                {
+                    "smpic":"src/assets/images/pei3.gif"
+                },
+                {
+                    "smpic":"src/assets/images/pei4.jpg"
+                }
+            ],
+            "funpic":"src/assets/images/1.fw.png",
+            "fundev":"功能说明",
+            "fundevtext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "tecpic":"src/assets/images/2.fw.png",
+            "tecdes":"技术说明",
+            "tecdestext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "datpic":"src/assets/images/3.fw.png",
+            "datdes":"功能说明",
+            "datdestext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "propic":"src/assets/images/4.fw.png",
+            "prodes":"功能说明",
+            "prodestext": [
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                }
+            ]       
+        },
+        {
+            "dettitle":"汉高移动ERP平台系统5",
+            "erp": "所属行业：ERP行业",
+            "lev": "项目级别：中型",
+            "smlun": [
+                {
+                    "smpic":"src/assets/images/pei1.jpg"
+                },
+                {
+                    "smpic":"src/assets/images/pei3.gif"
+                },
+                {
+                    "smpic":"src/assets/images/pei4.jpg"
+                }
+            ],
+            "funpic":"src/assets/images/1.fw.png",
+            "fundev":"功能说明",
+            "fundevtext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "tecpic":"src/assets/images/2.fw.png",
+            "tecdes":"技术说明",
+            "tecdestext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "datpic":"src/assets/images/3.fw.png",
+            "datdes":"功能说明",
+            "datdestext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "propic":"src/assets/images/4.fw.png",
+            "prodes":"功能说明",
+            "prodestext": [
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                }
+            ]       
+        },
+        {
+            "dettitle":"汉高移动ERP平台系统6",
+            "erp": "所属行业：ERP行业",
+            "lev": "项目级别：中型",
+            "smlun": [
+                {
+                    "smpic":"src/assets/images/pei1.jpg"
+                },
+                {
+                    "smpic":"src/assets/images/pei3.gif"
+                },
+                {
+                    "smpic":"src/assets/images/pei4.jpg"
+                }
+            ],
+            "funpic":"src/assets/images/1.fw.png",
+            "fundev":"功能说明",
+            "fundevtext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "tecpic":"src/assets/images/2.fw.png",
+            "tecdes":"技术说明",
+            "tecdestext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "datpic":"src/assets/images/3.fw.png",
+            "datdes":"功能说明",
+            "datdestext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "propic":"src/assets/images/4.fw.png",
+            "prodes":"功能说明",
+            "prodestext": [
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                }
+            ]       
+        },
+        {
+            "dettitle":"汉高移动ERP平台系统7",
+            "erp": "所属行业：ERP行业",
+            "lev": "项目级别：中型",
+            "smlun": [
+                {
+                    "smpic":"src/assets/images/pei1.jpg"
+                },
+                {
+                    "smpic":"src/assets/images/pei3.gif"
+                },
+                {
+                    "smpic":"src/assets/images/pei4.jpg"
+                }
+            ],
+            "funpic":"src/assets/images/1.fw.png",
+            "fundev":"功能说明",
+            "fundevtext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "tecpic":"src/assets/images/2.fw.png",
+            "tecdes":"技术说明",
+            "tecdestext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "datpic":"src/assets/images/3.fw.png",
+            "datdes":"功能说明",
+            "datdestext":"数据采集中心系统：为MAP平台应用端的应用子系统Andriod采集客户端通过map平台，无缝连接到采集中心，从而完成数据上报，下载等采集任务。",
+            "propic":"src/assets/images/4.fw.png",
+            "prodes":"功能说明",
+            "prodestext": [
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                },
+                {
+                    "hrefload": "/src/assets/vx.ppt",
+                    "loadname": "《汉高移动ERP平台系统》概要设计"
+                }
+            ]       
+        }
+    ]
+}

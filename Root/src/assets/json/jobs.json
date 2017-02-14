@@ -1,0 +1,8 @@
+﻿{
+	"josName":[	{"name":"Java开发工程师"},
+		{"name":"Java高级开发工程师"},		{"name":"资深Java开发工程师"},		{"name":"Java测试工程师"},		{"name":"Java"},		{"name":"测试工程师"},		{"name":"Java工程师"}	],	"jobz":[{"duty":"独立完成基于WEB的数据操作业务功能"},
+					{"duty":"能够熟练运用常见三方工具库实现特殊功能"},
+					{"duty":"能够完成基于Servlet、Struts的MVC业务流程"},
+					{"duty":"能够熟练使用JDK提供的各类API"}
+	],
+	"skills":[{"sex":"熟练掌握eclipse等java开发IDE工具，掌握PLSQLDeveloper工具"},						{"sex":"熟练掌握SQL语言及Java对数据库的操作"},						{"sex":"熟练掌握servlet，jsp，html，JS，AJAX技术"},						{"sex":"熟练使用struts，spring，hibernate技术初步熟悉JQuery、ExtJs。"},						{"sex":"熟练掌握SQL语言及Java对数据库的操作"},						{"sex":"熟练掌握SQL语言及Java对数据库的操作"}					]}

@@ -1,0 +1,96 @@
+{
+    "kpchead": {
+        "kpctitle":"知识点案例",
+        "kpclogo":"src/assets/images/logo3.png",
+        "kpccont":"知识点案例1在教学中用来说明知识点,知识点的应用,以及多个知识点综合应用.实现时间一般在5-30分钟,适合课堂案例演示,课堂上机案例与课后练习案例等"
+    },
+    "allsystem": [
+        "Java体系","云计算与大数据","web前端开发"
+    ],
+     "allclass": [
+            ["Java课程1", "Java课程2", "Java课程3"],
+            ["云计算与大数据1", "云计算与大数据2","云计算与大数据3"],
+            ["web前端开发1", "web前端开发2","web前端开发3"]
+    ],
+    "allcase": [
+            [
+                [
+                    {"clcasename":"Java课程1的课程1","clcsys":"Java程序设计"},
+                    {"clcasename":"Java课程1的课程2","clcsys":"Java程序设计"}, 
+                    {"clcasename":"Java课程1的课程3","clcsys":"Java程序设计"},
+                    {"clcasename":"Java课程1的课程4","clcsys":"Java程序设计"}, 
+                    {"clcasename":"Java课程1的课程5","clcsys":"Java程序设计"},
+                    {"clcasename":"Java课程1的课程6","clcsys":"Java程序设计"},
+                    {"clcasename":"Java课程1的课程7","clcsys":"Java程序设计"}, 
+                    {"clcasename":"Java课程1的课程8","clcsys":"Java程序设计"},
+                    {"clcasename":"Java课程1的课程9","clcsys":"Java程序设计"}, 
+                    {"clcasename":"Java课程1的课程10","clcsys":"Java程序设计"}
+                ],
+                 [
+                    {"clcasename":"Java课程2的课程1","clcsys":"Java程序设计"},
+                    {"clcasename":"Java课程2的课程1","clcsys":"Java程序设计"}, 
+                    {"clcasename":"Java课程2的课程1","clcsys":"Java程序设计"},
+                    {"clcasename":"Java课程2的课程1","clcsys":"Java程序设计"},
+                    {"clcasename":"Java课程2的课程1","clcsys":"Java程序设计"}, 
+                    {"clcasename":"Java课程2的课程1","clcsys":"Java程序设计"},
+                    {"clcasename":"Java课程2的课程1","clcsys":"Java程序设计"}
+                ],
+               [
+                    {"clcasename":"Java课程3的课程1","clcsys":"Java程序设计"},
+                    {"clcasename":"Java课程3的课程2","clcsys":"Java程序设计"}, 
+                    {"clcasename":"Java课程3的课程3","clcsys":"Java程序设计"},
+                    {"clcasename":"Java课程3的课程2","clcsys":"Java程序设计"}, 
+                    {"clcasename":"Java课程3的课程2","clcsys":"Java程序设计"}
+                ]
+            ],
+            [
+                [
+                    {"clcasename":"云计算与大数据1的课程1","clcsys":"云计算与大数据"},
+                    {"clcasename":"云计算与大数据1的课程2","clcsys":"云计算与大数据"}, 
+                    {"clcasename":"云计算与大数据1的课程3","clcsys":"云计算与大数据"},
+                     {"clcasename":"云计算与大数据1的课程1","clcsys":"云计算与大数据"},
+                    {"clcasename":"云计算与大数据1的课程2","clcsys":"云计算与大数据"}, 
+                    {"clcasename":"云计算与大数据1的课程3","clcsys":"云计算与大数据"},
+                     {"clcasename":"云计算与大数据1的课程1","clcsys":"云计算与大数据"},
+                    {"clcasename":"云计算与大数据1的课程2","clcsys":"云计算与大数据"}, 
+                    {"clcasename":"云计算与大数据1的课程3","clcsys":"云计算与大数据"},
+                     {"clcasename":"云计算与大数据1的课程1","clcsys":"云计算与大数据"},
+                    {"clcasename":"云计算与大数据1的课程2","clcsys":"云计算与大数据"}, 
+                    {"clcasename":"云计算与大数据1的课程3","clcsys":"云计算与大数据"}
+                ],
+                 [
+                    {"clcasename":"云计算与大数据2的课程1","clcsys":"云计算与大数据"},
+                    {"clcasename":"云计算与大数据2的课程2","clcsys":"云计算与大数据"}, 
+                    {"clcasename":"云计算与大数据2的课程3","clcsys":"云计算与大数据"}
+                ],
+               [
+                    {"clcasename":"云计算与大数据3的课程1","clcsys":"云计算与大数据"},
+                    {"clcasename":"云计算与大数据3的课程2","clcsys":"云计算与大数据"}, 
+                    {"clcasename":"云计算与大数据3的课程3","clcsys":"云计算与大数据"},
+                    {"clcasename":"云计算与大数据3的课程1","clcsys":"云计算与大数据"},
+                    {"clcasename":"云计算与大数据3的课程1","clcsys":"云计算与大数据"},
+                    {"clcasename":"云计算与大数据3的课程1","clcsys":"云计算与大数据"}
+                ]
+            ],
+            [
+                [
+                    {"clcasename":"web前端开发1的课程1","clcsys":"web前端开发"},
+                    {"clcasename":"web前端开发1的课程2","clcsys":"web前端开发"}, 
+                    {"clcasename":"web前端开发1的课程3","clcsys":"web前端开发"},
+                     {"clcasename":"web前端开发1的课程3","clcsys":"web前端开发"}
+                ],
+                 [
+                    {"clcasename":"web前端开发2的课程1","clcsys":"web前端开发"},
+                    {"clcasename":"web前端开发2的课程2","clcsys":"web前端开发"}, 
+                    {"clcasename":"web前端开发2的课程3","clcsys":"web前端开发"}
+                ],
+               [
+                    {"clcasename":"web前端开发3的课程1","clcsys":"web前端开发"},
+                    {"clcasename":"web前端开发3的课程2","clcsys":"web前端开发"}, 
+                    {"clcasename":"web前端开发3的课程3","clcsys":"web前端开发"},
+                    {"clcasename":"web前端开发3的课程2","clcsys":"web前端开发"}, 
+                    {"clcasename":"web前端开发3的课程3","clcsys":"web前端开发"}
+                ]
+            ]
+    ]
+}
